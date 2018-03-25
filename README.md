@@ -8,9 +8,13 @@ A series of tests were run in which a single hidden layer was used to classify t
 After the four network architectures were validated, they were retrained using the entirety of the provided training data and the unlabeled test data was classified. It was then uploaded to Kaggle and scored. 
 #
 The MNIST data set is available for download at:
+
 ttp://yann.lecun.com/exdb/mnist/
+
 Or alternativley at:
+
 https://www.kaggle.com/c/digit-recognizer
+
 The link above also hosts the classification challenge, where the final classification results of each network architecture under test were submitted and scored. 
 #
 Refer to the PDF documentation for details on methods and results. 
