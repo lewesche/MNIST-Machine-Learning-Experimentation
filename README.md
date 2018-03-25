@@ -16,6 +16,10 @@ Or alternativley at:
 https://www.kaggle.com/c/digit-recognizer
 
 The link above also hosts the classification challenge, where the final classification results of each network architecture under test were submitted and scored. 
+
+The training and test data sets are also available in CSV form at:
+
+https://drive.google.com/open?id=1bt6fNTImlu5sW5PwOj18LzoNG-Gg_Tai
 #
 Refer to the PDF documentation for details on methods, theory, and results. 
 
