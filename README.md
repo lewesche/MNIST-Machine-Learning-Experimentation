@@ -17,5 +17,5 @@ https://www.kaggle.com/c/digit-recognizer
 
 The link above also hosts the classification challenge, where the final classification results of each network architecture under test were submitted and scored. 
 #
-Refer to the PDF documentation for details on methods and results. 
+Refer to the PDF documentation for details on methods, theory, and results. 
 
